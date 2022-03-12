@@ -1,5 +1,4 @@
 const images = [
-    "img/5-Shab-e-Barat-Wishes-1.jpg",
     "img/al-aqsa-kaaba.png",
     "img/Jashan-Eid-Milad-Nabi-Mubarak-Greetings.jpg",
     "img/new-year.jpg",
